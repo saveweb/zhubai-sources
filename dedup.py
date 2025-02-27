@@ -3,6 +3,7 @@ txts = [
     'subdomains-from-zhubai_wiki.txt',
     'subdomains-from-arkiver.txt',
     'subdomains-from-exorcism.txt',
+    'subdomains-from-baidu.txt',
 ]
 export_to = 'subdomains-deduped.urls.txt'
 
